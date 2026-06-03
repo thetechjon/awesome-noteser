@@ -22,7 +22,20 @@ _None yet — first one earns a section header._
 
 ### Code-block renderers
 
-_None yet — first one earns a section header._
+| Plugin | Version | Claimed languages | Install URL |
+| --- | --- | --- | --- |
+| **Callouts** | 0.1.0 | `note` / `info` / `tip` / `warn` / `danger` | https://noteser-dev.vercel.app/plugins/noteser-callout/manifest.json |
+
+Use a callout in any note:
+
+````markdown
+```warn
+title: Pay attention
+This line becomes a colored callout box.
+```
+````
+
+The `title:` line is optional.
 
 ---
 
