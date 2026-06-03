@@ -18,7 +18,13 @@ A curated list of plugins, themes, and resources for
 
 ### Commands
 
-_None yet — first one earns a section header._
+| Plugin | Version | Description | Permissions | Install URL |
+| --- | --- | --- | --- | --- |
+| **PDF export** | 0.1.0 | Adds an "Export note as PDF" command to the palette. | `file-save` | https://noteser.app/plugins/noteser-pdf-export/manifest.json |
+
+Requires Noteser plugin API v1.1+. Markdown rendering for v0.1
+covers headings, paragraphs, bullet lists, and code blocks. Tables,
+math, and images land in v0.2.
 
 ### Code-block renderers
 
